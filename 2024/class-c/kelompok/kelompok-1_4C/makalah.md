@@ -112,8 +112,28 @@
 
 #### E. *Kedokteran*.
 #### Hippocrates, dikenal sebagai Bapak Kedokteran, memperkenalkan konsep bahwa penyakit disebabkan oleh faktor alam, bukan kutukan dewa. Ia menulis Hippocratic Oath, yang masih digunakan oleh dokter modern sebagai kode etik kedokteran. Selain itu ada juga Galen yan mengembangkan ilmu anatomi dan fisiologi manusia sebagai makhluk eksperimen pada hewan.
+
 #### F. *Arsitektur dan Teknik Sipil*.
 #### Yunani kuno membangun kuil megah seperti Parthenon di Athena. Mereka mengembangkan teknik kolom doric, ionic, dan corinthian, yang masih digunakan dalam arsitektur modern. Teknik pembangunan saluran air dan sistem drainase memungkinkan kota kota Yunani berkembang pesat. 
+
+#### Kepercayaan Yunani kuno
+#### Kepercayaan Yunani kuno didasarkan pada Hellenime dan Politeisme. Hellenisme Raja Yunani kuno yang menaklukkan wilayah kekuasaannya akan memadukan budaya setempat dengan budaya bangsa Yunani sehingga menghasilkan sebuah ajaran baru. Ajaran aru tersebut kemudian lebih dikenal sebagai agama Hellenisme. Sedangkan, Politeisme sendiri yaitu menyembah banyak dewa dan dewi yang dipercaya mengendalikan berbagai aspek kehidupan manusia dan alam semesta. Sistem kepercayaan ini tidak hanya berisi mitologi yang kaya, tetapi juga menjadi dasar bagi budaya, seni, dan filsafat Yunani. 
+#### A. *Dewa dewa dalam mitologi Yunani*. 
+#### Orang Yunani kuno percaya pada para dewa yang tinggal di Gunung Olympus, dengan Zeus sebagai pemimpin para dewa. Beberapa dewa utama dalam mitologi Yunani adalah : 
+a. Zeus, raja para dewa, penguasa laut dan petir.
+b. Hera, ratu para dewa, dewi pernikahan dan keluarga.
+c. Hades, dewa dunia bawah dan kematian. 
+
+#### B. *Mitologi dan legenda*. 
+#### Mitologi Yunani dipenuhi dengan kisah kisah yang menggambarkan interaksi anatara para dewa dan manusia. Kisah seperti perang troya, legenda perseus, dan kisah hercules menjadi bagian penting dari bagian warisan budaya Yunani.
+
+#### C. *Kehidupan setelah mati dan dunia bawah*.
+#### Orang Yunani percaya bahwa setelah meninggal, jiwa manusia akan menuju ke dunia bawah yang dikuasai oleh Hades.
+
+#### D. *Ritual dan persembahan*. 
+#### Untuk mendapatkan berkah dari para dewa, orang Yunani sering melakukan persembahan, doa, dan festival keagamaan. Mereka menyembelih hewan, memberikan makanan, atau membangun kuil sebagai bentuk penghormatan kepada hewan mereka. 
+#### 
+
 
 
 #### - Perkembangan sains dan agama pada masa Romawi include Eropa dan negara lain.
