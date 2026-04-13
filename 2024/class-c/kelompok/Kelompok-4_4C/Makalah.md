@@ -70,7 +70,17 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 &nbsp;6. Jelaskan faktor yang harus dikembangkan dan ditingkatkan dalam bagi perpustakaan dan arsip digital.
 </p>
 
-
-
-
-
+#### **1.3. Tujuan Penulisan**
+<p align="justify">
+&nbsp;1. Untuk mengetahui bagaimana evolusi 5 hukum perpustakaan
+<br>
+&nbsp;2. Untuk memahami konsep cyrberethic dan hubunganya dengan perpustakaan digital
+<br> 
+&nbsp;3. Untuk memahami prinsip dasar keamanan cyber bagi perpustakaan digital dan lembaga arsip digital
+<br>
+&nbsp;4. Untuk menganalisis resiko keamanan perpustakaan dan arsip digital berdasarkan data historis
+<br>
+&nbsp;5. Untuk memahami vektor dasar keamanan siber bagi perpustakaan atau arsip digital
+<br> 
+&nbsp;6. Untuk mengidentifikasi faktor yang harus dikembangkan dan ditingkatkan dalam bagi perpustakaan dan arsip digital.
+</p>
