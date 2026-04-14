@@ -85,7 +85,11 @@ Yang ketiga, mampu menganalisis kebutuhan pemustaka yang berkembang, pustakawan 
 
 ### DAFTAR PUSTAKA
 Addin, H. S., Anggraini, H., Yenti, H. N. R. P., Sari, F. W., & Hidayat, I. (2024). Strategi Pengembangan Koleksi Perpustakaan Digital. Media Informasi, 33(1), 88–95. https://doi.org/10.22146/mi.v33i1.11481
+
 Dunmade, A. O., & Tella, A. (2023). Libraries and librarians’ roles in ensuring cyberethical behaviour. Library Hi Tech News, 40(7), 7–11. https://doi.org/10.1108/LHTN-04-2023-0068
+
 National Cyber Security Centre. (2021). CyBOK Version 1.1.0. http://archive.org/details/cybok-version-1.1.0
+
 Polemik Data Pribadi: 5 Kasus Kebocoran Data di Indonesia Selama 2023-2024 | tempo.co. (2025, Juli 30). Tempo. https://www.tempo.co/digital/polemik-data-pribadi-5-kasus-kebocoran-data-di-indonesia-selama-2023-2024-2052924
+
 Tanjung, A. (2022, Juli 10). Lintas Sibermu #8: Cyber Ethics: Perlunya Penerapan Etika dalam Berwahana di Dunia Siber - Universitas Siber Muhammadiyah. https://sibermu.ac.id/en/artikel/lintas-sibermu-8-cyber-ethics-perlunya-penerapan-etika-dalam-berwahana-di-dunia-siber/
